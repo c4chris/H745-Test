@@ -7,3 +7,6 @@ This is inspired from LTDC_Display_2Layers LTDC Display 2 layers example for STM
 - M7 will display and move 2 copies of a sample image on the LTDC display (and blink another LED too)
 
 The image was created in GIMP and exported from GIMP as a C source file
+
+## board snapshot
+![Board snapshot](board.jpg)
